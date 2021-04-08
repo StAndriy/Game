@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+E:\project\Lab6\Lab6.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source.cpp
+  Generating Code...
+E:\project\Lab6\Lab6.cpp(28): error C4700: uninitialized local variable 'n' used
